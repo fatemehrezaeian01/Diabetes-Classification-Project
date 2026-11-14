@@ -88,75 +88,75 @@ The following results represent the mean performance of each model using stratif
 
 1. Logistic Regression
    
-       • Accuracy: 0.788
+   • Accuracy: 0.788
   
-       • Precision: 0.764
+   • Precision: 0.764
   
-       • Recall: 0.575
+   • Recall: 0.575
   
-       • F1-score: 0.655
+   • F1-score: 0.655
 
-       • ROC-AUC: 0.843
+   • ROC-AUC: 0.843
 
 3. Balanced Logistic Regression
    
-       • Accuracy: 0.762
+   • Accuracy: 0.762
 
-       • Precision: 0.649
+   • Precision: 0.649
 
-       • Recall: 0.701
+   • Recall: 0.701
   
-       • F1-score: 0.672
+   • F1-score: 0.672
 
-       • ROC-AUC: 0.844
+   • ROC-AUC: 0.844
 
 5. Decision Tree
    
-       • Accuracy: 0.673
+   • Accuracy: 0.673
   
-       • Precision: 0.531
+   • Precision: 0.531
   
-       • Recall: 0.580
+   • Recall: 0.580
   
-       • F1-score: 0.552
+   • F1-score: 0.552
   
-       • ROC-AUC: 0.651
+   • ROC-AUC: 0.651
 
 6. Balanced Decision Tree
    
-       • Accuracy: 0.673
+   • Accuracy: 0.673
   
-       • Precision: 0.532
+   • Precision: 0.532
   
-       • Recall: 0.533
+   • Recall: 0.533
   
-       • F1-score: 0.532
+   • F1-score: 0.532
   
-       • ROC-AUC: 0.640
+   • ROC-AUC: 0.640
 
 7. Random Forest
    
-       • Accuracy: 0.761
+   • Accuracy: 0.761
 
-       • Precision: 0.690
+   • Precision: 0.690
   
-       • Recall: 0.575
+   • Recall: 0.575
   
-       • F1-score: 0.626
+   • F1-score: 0.626
   
-       • ROC-AUC: 0.816
+   • ROC-AUC: 0.816
 
 8. Balanced Random Forest
    
-       • Accuracy: 0.764
+   • Accuracy: 0.764
 
-       • Precision: 0.654
+   • Precision: 0.654
   
-       • Recall: 0.701
+   • Recall: 0.701
   
-       • F1-score: 0.675
+   • F1-score: 0.675
   
-       • ROC-AUC: 0.820
+   • ROC-AUC: 0.820
 
 ## Key Findings
 
