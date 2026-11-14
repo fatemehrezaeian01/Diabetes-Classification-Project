@@ -88,15 +88,15 @@ The following results represent the mean performance of each model using stratif
 
 1. Logistic Regression
    
-  •	Accuracy: 0.788
+      •	Accuracy: 0.788
   
-  •	Precision: 0.764
+      •	Precision: 0.764
   
-  •	Recall: 0.575
+      •	Recall: 0.575
   
-  •	F1-score: 0.655
+      •	F1-score: 0.655
 
-  •	ROC-AUC: 0.843
+      •	ROC-AUC: 0.843
 
 3. Balanced Logistic Regression
    
