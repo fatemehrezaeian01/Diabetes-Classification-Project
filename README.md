@@ -115,12 +115,19 @@ Diabetes-Classification-Project/
 ```
 
 ## Technologies Used
+
   •	Python
+  
   •	NumPy
+  
   •	Pandas
+  
   •	Matplotlib
+  
   •	Seaborn
+  
   •	Scikit-learn
+  
   •	Jupyter Notebook
 
 ## How to Run
@@ -137,10 +144,13 @@ jupyter notebook medical_ml_project.ipynb
 5.Run the notebook cells from top to bottom.
 
 ## Limitations
-   •The dataset is relatively small and contains a moderately imbalanced target variable.
-   •The models use default or basic configurations rather than extensive hyperparameter optimization.
-   •Feature importance represents the model’s internal use of features and does not establish causation or clinical significance.
-   •The models have not been clinically validated and should not be used for medical diagnosis.
+   • The dataset is relatively small and contains a moderately imbalanced target variable.
+   
+   • The models use default or basic configurations rather than extensive hyperparameter optimization.
+   
+   • Feature importance represents the model’s internal use of features and does not establish causation or clinical significance.
+   
+   • The models have not been clinically validated and should not be used for medical diagnosis.
 
 ## Disclaimer
 
